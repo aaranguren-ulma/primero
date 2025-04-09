@@ -59,3 +59,7 @@ h4 {
 .post > .actions {
     float: right;
 }
+
+.data {
+    margin-right : 20px;
+}
